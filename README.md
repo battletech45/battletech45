@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=battletech45" alt="battletech45" /></a> </p>
 
-- 🔭 I’m currently working on [Minerva: Class Management System](https://github.com/battletech45/Minerva)
+- 🔭 I’m currently working on [Snap Dish: recipe and order](https://github.com/battletech45/SnapDish)
 
-- 🌱 I’m currently learning **Javascript, Typescript, React, Flutter, Dart**
+- 🌱 I’m currently learning **Javascript, Typescript, React, Next.js, Tailwindcss**
 
 - 👨‍💻 All of my projects are available at [https://github.com/battletech45](https://github.com/battletech45)
 
