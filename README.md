@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=battletech45" alt="battletech45" /></a> </p>
 
-- 🔭 I’m currently working on [Snap Dish: recipe and order](https://github.com/battletech45/SnapDish)
+- 🔭 I’m currently working on [MayTeam: Chat App](https://github.com/battletech45/MayTeam)
 
-- 🌱 I’m currently learning **Javascript, Typescript, React, Next.js, Tailwindcss**
+- 🌱 I’m currently learning **Dart, Flutter, React, Next.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/battletech45](https://github.com/battletech45)
 
