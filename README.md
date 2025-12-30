@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/github/followers/battletech45?style=flat&logo=github" alt="GitHub followers" />
   </a>
   &nbsp;
-  <a href="https://github.com/battletech45">
+  <a href="https://github.com/battletech45/relay">
     <img src="https://img.shields.io/badge/Altay-%F0%9F%9A%80%20building-blueviolet" alt="Currently building" />
   </a>
 </p>
