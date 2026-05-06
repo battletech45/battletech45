@@ -1,1 +1,46 @@
-<h1 align="center">Hi, I'm Altay 👋</h1> <h3 align="center">Frontend & Mobile Developer crafting modern digital experiences</h3> <p align="center"> <a href="https://github.com/battletech45?tab=followers"> <img src="https://img.shields.io/github/followers/battletech45?style=for-the-badge&logo=github" alt="GitHub followers" /> </a> <a href="https://komarev.com/ghpvc/?username=battletech45"> <img src="https://komarev.com/ghpvc/?username=battletech45&style=for-the-badge&color=blueviolet" alt="Profile views" /> </a> </p> --- ## 🚀 About Me I'm a frontend-focused developer passionate about building clean, scalable, and user-friendly applications across web and mobile platforms. - 🔭 Currently working on **Relay** - 🌱 Exploring **Flutter, Dart, React, Next.js** - 🎨 Interested in UI/UX and interactive experiences - ⚡ I enjoy turning ideas into polished products 📫 Reach me: **taneri862@gmail.com** --- ## 🛠 Tech Stack ### Frontend & Mobile <p> <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,dart,js,html,css,sass" /> </p> ### Backend & Tools <p> <img src="https://skillicons.dev/icons?i=firebase,git,figma,java" /> </p> ### Creative Tools <p> <img src="https://skillicons.dev/icons?i=unity,blender" /> </p> --- ## 🌟 Featured Project ### 🚀 Relay A modern application currently in development focused on delivering a clean and scalable experience. 🔗 Repository: https://github.com/battletech45/relay --- ## 📊 GitHub Stats <div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=battletech45&show_icons=true&hide_border=true&theme=transparent" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=battletech45&layout=compact&hide_border=true&theme=transparent" /> <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=battletech45&hide_border=true&theme=transparent" /> </div> --- ## 💡 Development Philosophy - Build reusable and maintainable components - Focus on responsive and accessible UI - Prefer clean architecture and predictable state management - Design before implementation --- ## 🤝 Let's Connect I'm always open to: - Collaboration opportunities - Open source contributions - Creative project ideas - Frontend/mobile discussions If you want to build something together, feel free to reach out. --- <p align="center"> Thanks for visiting my profile ⭐ </p>
+<!-- Hero -->
+<h1 align="center">Hey there, I'm Altay 👋</h1>
+
+<p align="center">
+  <strong>Frontend dev crafting web & mobile experiences</strong>
+</p>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=battletech45">
+    <img src="https://komarev.com/ghpvc/?username=battletech45&label=Profile%20Views&color=0f172a&style=for-the-badge" alt="Profile views badge" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/battletech45?tab=followers">
+    <img src="https://img.shields.io/github/followers/battletech45?style=for-the-badge&logo=github&color=181717" alt="GitHub followers" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/battletech45/relay">
+    <img src="https://img.shields.io/badge/Currently%20Building-Relay-6d28d9?style=for-the-badge" alt="Currently building" />
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=battletech45&theme=algolia&no-frame=true&margin-w=12&margin-h=12&column=4" alt="GitHub Profile Trophies" />
+</p>
+
+---
+
+# 🚀 What I'm Up To
+
+```yaml
+Building:
+  - Relay: is on the way !
+
+Learning:
+  - Dart
+  - Flutter
+  - React
+  - Next.js
+
+Portfolio:
+  - github.com/battletech45
+
+Contact:
+  - taneri862@gmail.com
