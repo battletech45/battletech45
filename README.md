@@ -31,7 +31,7 @@
 
 <p align="center">
   <img height="165" src="https://gh-readme-stats.vercel.app/api?username=battletech45&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=battletech45&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://raw.githubusercontent.com/battletech45/battletech45/output/commit-lang-stats.svg" alt="Languages by commit count" />
 </p>
 
 <p align="center">
@@ -41,11 +41,7 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/battletech45/battletech45/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/battletech45/battletech45/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/battletech45/battletech45/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/battletech45/battletech45/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
