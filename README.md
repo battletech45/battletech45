@@ -22,7 +22,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=battletech45&theme=algolia&no-frame=true&margin-w=12&margin-h=12&column=4" alt="GitHub Profile Trophies" />
+  <img src="https://github-profile-trophy-black.vercel.app/?username=battletech45&theme=algolia&no-frame=true&margin-w=12&margin-h=12&column=4" alt="GitHub Profile Trophies" />
 </p>
 
 ---
@@ -30,8 +30,8 @@
 ### 📊 Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=battletech45&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=battletech45&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://gh-readme-stats.vercel.app/api?username=battletech45&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=battletech45&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
