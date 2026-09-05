@@ -1,0 +1,29 @@
+<svg width="300" height="238" viewBox="0 0 300 238" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', Ubuntu, Sans-Serif">
+  <style>
+    .title { fill: #58a6ff; font-size: 16px; font-weight: 600; }
+    .lang { fill: #c9d1d9; font-size: 13px; }
+    .pct { fill: #8b949e; font-size: 12px; }
+  </style>
+  <rect width="300" height="238" rx="6" fill="#0d1117" />
+  <text x="20" y="26" class="title">Most Committed Languages</text>
+  <g transform="translate(10, 36)"><rect x="0.00" y="0" width="195.02" height="8" fill="#00B4AB" /><rect x="195.02" y="0" width="64.69" height="8" fill="#b07219" /><rect x="259.71" y="0" width="4.76" height="8" fill="#A97BFF" /><rect x="264.46" y="0" width="4.12" height="8" fill="#f1e05a" /><rect x="268.58" y="0" width="3.17" height="8" fill="#3178c6" /><rect x="271.76" y="0" width="2.85" height="8" fill="#F05138" /></g>
+  <g>
+      <circle cx="16" cy="50" r="5" fill="#00B4AB" />
+      <text x="30" y="55" class="lang">Dart</text>
+      <text x="280" y="55" text-anchor="end" class="pct">69.6% (615)</text>
+      <circle cx="16" cy="78" r="5" fill="#b07219" />
+      <text x="30" y="83" class="lang">Java</text>
+      <text x="280" y="83" text-anchor="end" class="pct">23.1% (204)</text>
+      <circle cx="16" cy="106" r="5" fill="#A97BFF" />
+      <text x="30" y="111" class="lang">Kotlin</text>
+      <text x="280" y="111" text-anchor="end" class="pct">1.7% (15)</text>
+      <circle cx="16" cy="134" r="5" fill="#f1e05a" />
+      <text x="30" y="139" class="lang">JavaScript</text>
+      <text x="280" y="139" text-anchor="end" class="pct">1.5% (13)</text>
+      <circle cx="16" cy="162" r="5" fill="#3178c6" />
+      <text x="30" y="167" class="lang">TypeScript</text>
+      <text x="280" y="167" text-anchor="end" class="pct">1.1% (10)</text>
+      <circle cx="16" cy="190" r="5" fill="#F05138" />
+      <text x="30" y="195" class="lang">Swift</text>
+      <text x="280" y="195" text-anchor="end" class="pct">1.0% (9)</text></g>
+</svg>
